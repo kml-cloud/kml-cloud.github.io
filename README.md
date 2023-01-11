@@ -1,4 +1,3 @@
-theme: hacker
 # kml-cloud.github.io
 - 👋 Hi, I’m @kml-cloud
 - 👀 I’m interested in ...
